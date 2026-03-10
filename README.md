@@ -52,7 +52,7 @@
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkumarw13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Manojkumarw13&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
@@ -146,7 +146,6 @@ _Click on any certificate to view full size_
 ## 📫 Let's Connect
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
