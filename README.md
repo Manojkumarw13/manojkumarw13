@@ -135,10 +135,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar.m13@gmail.com)
 
-<!-- Add Twitter/Portfolio badge below if applicable -->
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE) -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL) -->
-
 <br/>
 
 <!-- Using a dynamic waving SVG footer matching the profile theme color -->
