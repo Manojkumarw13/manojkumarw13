@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- REPLACE the URL below with your actual animated greeting GIF -->
-<img src="https://YOUR_GIF_LINK_HERE.gif" alt="Greeting Banner" width="100%" />
+<!-- Using an Unsplash image since Unsplash only has photos -->
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Greeting Banner" width="100%" />
 
 # 👋 Hey, I'm **Manoj Kumar M**
 
@@ -21,8 +21,8 @@
 
 ## 🚀 About Me
 
-<!-- REPLACE the URL below with your actual avatar or a cool about-me GIF -->
-<img align="right" src="https://YOUR_AVATAR_OR_GIF_LINK_HERE.gif" alt="About Me GIF" width="280" />
+<!-- Using a dynamic/animated developer GIF suitable for the About Me section -->
+<img align="right" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="About Me Developer GIF" width="280" />
 
 - 🎓 Pursuing **B.Tech in AI & Data Science** (Class of 2027), Coimbatore, Tamil Nadu, India
 - 💼 Aspiring **Data Analyst** with a passion for uncovering insights from complex datasets
@@ -40,24 +40,28 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 📊 Data & Analytics
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🤖 AI & Automation
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EF7733?style=for-the-badge&logo=n8n&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🌐 Web & DevOps
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
 
 ### 🔧 Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -90,6 +94,7 @@
 <div align="center">
 
 ### 🗄️ CRM-ERP SQL Data Warehouse
+
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13/CRM-ERP-SQL-Warehouse)
 ![PLpgSQL](https://img.shields.io/badge/PLpgSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -99,6 +104,7 @@
 ---
 
 ### 🤖 AI Receptionist
+
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13/AI-Receptionist)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
@@ -108,6 +114,7 @@
 ---
 
 ### ☁️ Personal Cloud Server Setup
+
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13/Server-Setup)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -126,18 +133,19 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-m13/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar.m13@gmail.com)
+
 <!-- Add Twitter/Portfolio badge below if applicable -->
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE) -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL) -->
 
 <br/>
 
-<!-- REPLACE with your actual wave/footer GIF -->
-<img src="https://YOUR_FOOTER_GIF_LINK_HERE.gif" alt="Footer Wave" width="100%" />
+<!-- Using a dynamic waving SVG footer matching the profile theme color -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=120&section=footer" alt="Footer Wave" width="100%" />
 
 <br/>
 
-*⭐️ If you find my work useful, consider starring some repositories — it means a lot!*
+_⭐️ If you find my work useful, consider starring some repositories — it means a lot!_
 
 </div>
