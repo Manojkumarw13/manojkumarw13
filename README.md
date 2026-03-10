@@ -13,7 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-m13/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13)
-[![Profile Views](https://komarev.com/ghpvc/?username=Manojkumarw13&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS)](https://github.com/Manojkumarw13)
 
 </div>
 
@@ -125,15 +124,78 @@
 
 </div>
 
----
-
-## 🌐 Connect With Me
+## 🏆 Certifications Gallery
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-m13/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar.m13@gmail.com)
+<table>
+  <tr>
+    <td align="center">
+      <!-- REPLACE with your actual certificate image link -->
+      <a href="#">
+        <img src="https://via.placeholder.com/250x180/1a1b27/00c9ff?text=Certificate+1" width="250" alt="Certificate 1"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://via.placeholder.com/250x180/1a1b27/00c9ff?text=Certificate+2" width="250" alt="Certificate 2"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://via.placeholder.com/250x180/1a1b27/00c9ff?text=Certificate+3" width="250" alt="Certificate 3"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+_Click on any certificate to view full size_
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/in/manoj-kumar-m13/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"/>
+</a>
+<br>
+<sub>Professional Network</sub>
+</td>
+<td align="center" width="33%">
+<a href="mailto:manojkumar.m13@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%"/>
+</a>
+<br>
+<sub>Business Inquiries</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Manojkumarw13">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" width="100%"/>
+</a>
+<br>
+<sub>Open Source</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 _"Data holds the story, we just need to listen."_
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manojkumarw13&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/Manojkumarw13?style=for-the-badge&color=00C9FF&labelColor=1a1b27)
+![GitHub Stars](https://img.shields.io/github/stars/Manojkumarw13?style=for-the-badge&color=00C9FF&labelColor=1a1b27)
 
 <br/>
 
@@ -142,6 +204,6 @@
 
 <br/>
 
-_⭐️ If you find my work useful, consider starring some repositories — it means a lot!_
+<sub>⭐️ Designed with 💙 by [Manojkumarw13](https://github.com/Manojkumarw13)</sub>
 
 </div>
