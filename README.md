@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Futuristic Anime/Coding Developer Banner -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Futuristic Banner" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Developer Coding Banner" width="100%" />
 
 # 👋 Hey, I'm **Manoj Kumar M**
 
@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 <!-- Using a dynamic/animated developer GIF suitable for the About Me section -->
-<img align="right" src="https://media.tenor.com/_4YgA77ExHEAAAAC/coding-anime.gif" alt="About Me Developer GIF" width="280" />
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="About Me Developer GIF" width="280" />
 
 - 🎓 Pursuing **B.Tech in AI & Data Science** (Class of 2027), Coimbatore, Tamil Nadu, India
 - 💼 Aspiring **Data Analyst** with a passion for uncovering insights from complex datasets
