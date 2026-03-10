@@ -1,18 +1,13 @@
 <div align="center">
 
-<!-- Futuristic Anime/Coding Developer Banner -->
-<img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Developer Coding Banner" width="100%" />
+<!-- Developer Coding Banner -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding Banner" width="100%" />
 
 # 👋 Hey, I'm **Manoj Kumar M**
 
 ### 🎓 B.Tech AI & Data Science '27 &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🤖 AI & Automation Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Real+Insights+%F0%9F%93%88;Building+AI+Tools+%26+Automations+%F0%9F%A4%96;SQL+%7C+Power+BI+%7C+Python+%7C+n8n+%F0%9F%9B%A0%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-m13/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13)
 
 </div>
 
@@ -21,7 +16,7 @@
 ## 🚀 About Me
 
 <!-- Using a dynamic/animated developer GIF suitable for the About Me section -->
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="About Me Developer GIF" width="280" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="About Me Developer GIF" width="280" />
 
 - 🎓 Pursuing **B.Tech in AI & Data Science** (Class of 2027), Coimbatore, Tamil Nadu, India
 - 💼 Aspiring **Data Analyst** with a passion for uncovering insights from complex datasets
