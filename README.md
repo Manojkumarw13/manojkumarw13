@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Using an Unsplash image since Unsplash only has photos -->
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Greeting Banner" width="100%" />
+<!-- Futuristic Anime/Coding Developer Banner -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Futuristic Banner" width="100%" />
 
 # 👋 Hey, I'm **Manoj Kumar M**
 
@@ -38,9 +38,25 @@
 
 ## 🛠️ Tech Stack & Tools
 
-|                                                                                                                                                                                                                  📊 Data & Analytics                                                                                                                                                                                                                  |                                                                                                                                                                                                              🤖 AI & Automation                                                                                                                                                                                                               |                                                                                                                                                                                                           🌐 Web & DevOps                                                                                                                                                                                                           |                                                                                                                                                                                                              🔧 Tools & Platforms                                                                                                                                                                                                               |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)<br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![n8n](https://img.shields.io/badge/n8n-EF7733?style=for-the-badge&logo=n8n&logoColor=white)<br>![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)<br>![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)<br>![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+<div align="center">
+
+### 📊 Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,py&theme=dark" />
+
+### 🤖 AI & Automation
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark" />
+
+### 🌐 Web & DevOps
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,linux&theme=dark" />
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark" />
+
+</div>
 
 ---
 
@@ -58,7 +74,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manojkumarw13&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manojkumarw13&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20(Months/Days)" alt="Contribution Graph" width="95%" />
 
 </div>
 
@@ -112,66 +128,14 @@
 
 </div>
 
-## 🏆 Certifications Gallery
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <!-- REPLACE with your actual certificate image link -->
-      <a href="#">
-        <img src="https://via.placeholder.com/250x180/1a1b27/00c9ff?text=Certificate+1" width="250" alt="Certificate 1"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://via.placeholder.com/250x180/1a1b27/00c9ff?text=Certificate+2" width="250" alt="Certificate 2"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://via.placeholder.com/250x180/1a1b27/00c9ff?text=Certificate+3" width="250" alt="Certificate 3"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-_Click on any certificate to view full size_
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://www.linkedin.com/in/manoj-kumar-m13/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"/>
-</a>
-<br>
-<sub>Professional Network</sub>
-</td>
-<td align="center" width="33%">
-<a href="mailto:manojkumar.m13@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%"/>
-</a>
-<br>
-<sub>Business Inquiries</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/Manojkumarw13">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" width="100%"/>
-</a>
-<br>
-<sub>Open Source</sub>
-</td>
-</tr>
-</table>
-
+  <a href="https://www.linkedin.com/in/manoj-kumar-m13/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Manojkumarw13"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:manojkumar.m13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"></a>
 </div>
 
 ---
