@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 <!-- Using a dynamic/animated developer GIF suitable for the About Me section -->
-<img align="right" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="About Me Developer GIF" width="280" />
+<img align="right" src="https://media.tenor.com/_4YgA77ExHEAAAAC/coding-anime.gif" alt="About Me Developer GIF" width="280" />
 
 - 🎓 Pursuing **B.Tech in AI & Data Science** (Class of 2027), Coimbatore, Tamil Nadu, India
 - 💼 Aspiring **Data Analyst** with a passion for uncovering insights from complex datasets
