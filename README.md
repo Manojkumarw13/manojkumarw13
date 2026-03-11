@@ -89,39 +89,41 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Manojkumarw13/CRM-ERP-SQL-Warehouse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=CRM-ERP-SQL-Warehouse&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" alt="CRM-ERP SQL Data Warehouse" />
+  </a>
+  <a href="https://github.com/Manojkumarw13/AI-Receptionist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=AI-Receptionist&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" alt="AI Receptionist" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Manojkumarw13/Server-Setup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=Server-Setup&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" alt="Personal Cloud Server Setup" />
+  </a>
+</p>
 
-### 🗄️ CRM-ERP SQL Data Warehouse
+### 🗄️ [CRM-ERP SQL Data Warehouse](https://github.com/Manojkumarw13/CRM-ERP-SQL-Warehouse)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13/CRM-ERP-SQL-Warehouse)
-![PLpgSQL](https://img.shields.io/badge/PLpgSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PLpgSQL](https://img.shields.io/badge/PLpgSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 > 🏗️ Designed a scalable **Bronze–Silver–Gold** layered data warehouse architecture processing **500M+ records/month**. Built optimised ETL pipelines, star schema models & dimensional tables that dramatically reduced query processing time.
 
----
+<br>
 
-### 🤖 AI Receptionist
+### 🤖 [AI Receptionist](https://github.com/Manojkumarw13/AI-Receptionist)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13/AI-Receptionist)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
 > 🧠 An intelligent **AI-powered receptionist** built in Python. Handles automated interactions, responds to queries, and streamlines front-desk operations using modern AI/NLP techniques.
 
----
+<br>
 
-### ☁️ Personal Cloud Server Setup
+### ☁️ [Personal Cloud Server Setup](https://github.com/Manojkumarw13/Server-Setup)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojkumarw13/Server-Setup)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-⭐ **1 Star**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 > ☁️ A complete beginner-friendly **deployment kit for self-hosting** on Oracle's Free Tier. Includes automated setup for **Nginx, Portainer, n8n, Jellyfin, Syncthing & Homepage** — everything you need to run your own cloud.
-
-</div>
 
 ## 📫 Let's Connect
 
