@@ -23,6 +23,7 @@
 - 🧠 Deeply interested in **Artificial Intelligence, Automation & Workflow Orchestration**
 - 🔧 Love building **productivity tools, smart dashboards & self-hosted cloud solutions**
 - 📊 Experienced with end-to-end **ETL pipelines, data warehousing & BI reporting**
+- 🪄 Proficient in **Vibe Coding**, leveraging AI tools to rapidly turn ideas into functional software
 - 🌱 Currently exploring **LLM integrations, agentic AI & advanced SQL optimisation**
 - 📍 Based in **Coimbatore, Tamil Nadu 🇮🇳**
 - ⚡ Fun fact: I run my own personal cloud server on Oracle's Free Tier!
