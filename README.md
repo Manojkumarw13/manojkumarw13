@@ -38,7 +38,7 @@
 
 ### 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,py,powerbi,tableau&theme=dark" />
 
 ### 🤖 AI & Automation
 
@@ -57,11 +57,11 @@
 
 ### 🪄 AI Tools & Assistants
 
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=chatgpt&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=chatgpt&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
 </div>
 
@@ -117,7 +117,7 @@
 
 ### 🗄️ [CRM-ERP SQL Data Warehouse](https://github.com/Manojkumarw13/CRM-ERP-SQL-Warehouse)
 
-![PLpgSQL](https://img.shields.io/badge/PLpgSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
 
 > 🏗️ Designed a scalable **Bronze–Silver–Gold** layered data warehouse architecture processing **500M+ records/month**. Built optimised ETL pipelines, star schema models & dimensional tables that dramatically reduced query processing time.
 
@@ -125,7 +125,8 @@
 
 ### 🤖 [AI Receptionist](https://github.com/Manojkumarw13/AI-Receptionist)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
+<img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered" />
 
 > 🧠 An intelligent **AI-powered receptionist** built in Python. Handles automated interactions, responds to queries, and streamlines front-desk operations using modern AI/NLP techniques.
 
@@ -133,7 +134,7 @@
 
 ### ☁️ [Personal Cloud Server Setup](https://github.com/Manojkumarw13/Server-Setup)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,nginx,docker&theme=dark" alt="HTML, Nginx, Docker" />
 
 > ☁️ A complete beginner-friendly **deployment kit for self-hosting** on Oracle's Free Tier. Includes automated setup for **Nginx, Portainer, n8n, Jellyfin, Syncthing & Homepage** — everything you need to run your own cloud.
 
