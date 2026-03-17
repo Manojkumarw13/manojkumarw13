@@ -148,10 +148,14 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <br>
-      <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=100&section=header&text=More%20Coming%20Soon...&fontSize=20&fontColor=7aa2f7" width="100%" />
-      </div>
+      <a href="https://github.com/Manojkumarw13/LinkedIn-Intelligence-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=LinkedIn-Intelligence-System&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" alt="LinkedIn Intelligence System" />
+      </a>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=n8n,gmail&theme=dark" height="25" alt="n8n, Gmail" />
+        <br>
+        🤖 <b>AI-powered LinkedIn analytics</b>. n8n workflow for monthly profile auditing, strategy generation, and automated reporting.
+      </p>
     </td>
   </tr>
 </table>
