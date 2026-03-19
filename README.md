@@ -52,7 +52,7 @@
 
 | 📊 Data & Analytics | 🤖 AI & Automation | 🌐 Web & DevOps |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=postgres,mysql,py,powerbi,tableau&theme=dark" width="150" /> | <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,n8n&theme=dark" width="150" /> | <img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,linux,git,github&theme=dark" width="150" /> |
+| <img src="https://skillicons.dev/icons?i=postgres,mysql,py&theme=dark" height="48" />&nbsp;<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />&nbsp;<img src="https://cdn.simpleicons.org/tableau/E97627" height="48" alt="Tableau" /> | <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark" height="48" />&nbsp;<img src="https://cdn.simpleicons.org/n8n/FF6D5A" height="48" alt="n8n" /> | <img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,linux,git,github&theme=dark" height="48" /> |
 
 <br>
 
