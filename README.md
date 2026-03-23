@@ -52,15 +52,15 @@
 
 | 📊 Data & Analytics | 🤖 AI & Automation | 🌐 Web & DevOps |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=postgres,mysql,py&theme=dark" height="48" />&nbsp;<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />&nbsp;<img src="https://cdn.simpleicons.org/tableau/E97627" height="48" alt="Tableau" /> | <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark" height="48" />&nbsp;<img src="https://cdn.simpleicons.org/n8n/FF6D5A" height="48" alt="n8n" /> | <img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,linux,git,github&theme=dark" height="48" /> |
+| <img src="https://skillicons.dev/icons?i=postgres,mysql,py&theme=dark" height="48" />&nbsp;<img src="./icons/powerbi.svg" height="48" alt="Power BI" />&nbsp;<img src="./icons/tableau.svg" height="48" alt="Tableau" /> | <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark" height="48" />&nbsp;<img src="./icons/n8n.svg" height="48" alt="n8n" /> | <img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,linux,git,github&theme=dark" height="48" /> |
 
 <br>
 
 ### 🪄 AI Tools & Assistants
-<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=chatgpt&logoColor=white" alt="ChatGPT" />
+<img src="./icons/google.svg" height="48" alt="Google Antigravity" />&nbsp;
+<img src="./icons/cursor.svg" height="48" alt="Cursor" />&nbsp;
+<img src="./icons/claude.svg" height="48" alt="Claude" />&nbsp;
+<img src="./icons/chatgpt.svg" height="48" alt="ChatGPT" />
 
 </div>
 
