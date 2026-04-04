@@ -68,7 +68,7 @@
     </td>
     <td align="center" width="50%">
       <br><b>🪄 AI Tools & Assistants</b><br><br>
-      <img src="./icons/google.svg" height="48" alt="Google Antigravity" />&nbsp;<img src="./icons/cursor.svg" height="48" alt="Cursor" />&nbsp;<img src="./icons/claude.svg" height="48" alt="Claude" />&nbsp;<img src="./icons/chatgpt.svg" height="48" alt="ChatGPT" />
+      <img src="./icons/antigravity.svg" height="48" alt="Google Antigravity" />&nbsp;<img src="./icons/cursor.svg" height="48" alt="Cursor" />&nbsp;<img src="./icons/claude.svg" height="48" alt="Claude" />&nbsp;<img src="./icons/chatgpt.svg" height="48" alt="ChatGPT" />
     </td>
   </tr>
 </table>
