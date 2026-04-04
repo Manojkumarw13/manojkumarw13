@@ -46,21 +46,32 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&text=Tech%20Stack%20%26%20Tools&fontSize=25&fontAlignY=50&fontColor=7dcfff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&text=Technical%20Skills%20%26%20Arsenal&fontSize=25&fontAlignY=50&fontColor=7dcfff" width="100%" />
 
 <br>
 
-| 📊 Data & Analytics | 🤖 AI & Automation | 🌐 Web & DevOps |
-| :---: | :---: | :---: |
-| <img src="./icons/postgres-mysql-py.svg" height="48" />&nbsp;<img src="./icons/powerbi.svg" height="48" alt="Power BI" />&nbsp;<img src="./icons/tableau.svg" height="48" alt="Tableau" /> | <img src="./icons/python-sklearn-tensorflow-pytorch.svg" height="48" />&nbsp;<img src="./icons/n8n.svg" height="48" alt="n8n" /> | <img src="./icons/html-css-js-nginx-docker-linux-git-github.svg" height="48" /> |
-
-<br>
-
-### 🪄 AI Tools & Assistants
-<img src="./icons/google.svg" height="48" alt="Google Antigravity" />&nbsp;
-<img src="./icons/cursor.svg" height="48" alt="Cursor" />&nbsp;
-<img src="./icons/claude.svg" height="48" alt="Claude" />&nbsp;
-<img src="./icons/chatgpt.svg" height="48" alt="ChatGPT" />
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>📊 Data & Analytics</b><br><br>
+      <img src="./icons/postgres-mysql-py.svg" height="48" />&nbsp;<img src="./icons/powerbi.svg" height="48" alt="Power BI" />&nbsp;<img src="./icons/tableau.svg" height="48" alt="Tableau" />
+    </td>
+    <td align="center" width="50%">
+      <b>🤖 AI & Automation</b><br><br>
+      <img src="./icons/python-sklearn-tensorflow-pytorch.svg" height="48" />&nbsp;<img src="./icons/n8n.svg" height="48" alt="n8n" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br><b>🌐 Web & DevOps</b><br><br>
+      <img src="./icons/html-css-js-nginx-docker-linux-git-github.svg" height="48" />
+    </td>
+    <td align="center" width="50%">
+      <br><b>🪄 AI Tools & Assistants</b><br><br>
+      <img src="./icons/google.svg" height="48" alt="Google Antigravity" />&nbsp;<img src="./icons/cursor.svg" height="48" alt="Cursor" />&nbsp;<img src="./icons/claude.svg" height="48" alt="Claude" />&nbsp;<img src="./icons/chatgpt.svg" height="48" alt="ChatGPT" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
