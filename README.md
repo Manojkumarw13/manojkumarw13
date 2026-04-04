@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manoj-kumar-m13/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35" />
+    <img src="./icons/linkedin.svg" height="35" />
   </a>
   &nbsp;
   <a href="https://github.com/Manojkumarw13">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="35" />
+    <img src="./icons/github.svg" height="35" />
   </a>
   &nbsp;
   <a href="mailto:manojkumar.m13@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="35" />
+    <img src="./icons/gmail.svg" height="35" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 | 📊 Data & Analytics | 🤖 AI & Automation | 🌐 Web & DevOps |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=postgres,mysql,py&theme=dark" height="48" />&nbsp;<img src="./icons/powerbi.svg" height="48" alt="Power BI" />&nbsp;<img src="./icons/tableau.svg" height="48" alt="Tableau" /> | <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark" height="48" />&nbsp;<img src="./icons/n8n.svg" height="48" alt="n8n" /> | <img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,linux,git,github&theme=dark" height="48" /> |
+| <img src="./icons/postgres-mysql-py.svg" height="48" />&nbsp;<img src="./icons/powerbi.svg" height="48" alt="Power BI" />&nbsp;<img src="./icons/tableau.svg" height="48" alt="Tableau" /> | <img src="./icons/python-sklearn-tensorflow-pytorch.svg" height="48" />&nbsp;<img src="./icons/n8n.svg" height="48" alt="n8n" /> | <img src="./icons/html-css-js-nginx-docker-linux-git-github.svg" height="48" /> |
 
 <br>
 
@@ -120,7 +120,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=CRM-ERP-SQL-Warehouse&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" alt="CRM-ERP SQL Data Warehouse" />
       </a>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="25" alt="PostgreSQL" />
+        <img src="./icons/postgres.svg" height="25" alt="PostgreSQL" />
         <br>
         🏗️ <b>Bronze–Silver–Gold</b> data warehouse architecting <b>500M+ records/month</b>. Reduced query time via star schema models.
       </p>
@@ -130,7 +130,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=AI-Receptionist&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" alt="AI Receptionist" />
       </a>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=py&theme=dark" height="25" alt="Python" />
+        <img src="./icons/py.svg" height="25" alt="Python" />
         <br>
         🧠 Intelligent <b>AI-powered receptionist</b>. Handles automated interactions and streamlines operations.
       </p>
@@ -142,7 +142,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=Server-Setup&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" alt="Personal Cloud Server Setup" />
       </a>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=nginx,docker&theme=dark" height="25" alt="Nginx, Docker" />
+        <img src="./icons/nginx-docker.svg" height="25" alt="Nginx, Docker" />
         <br>
         ☁️ Comprehensive <b>self-hosting deployment kit</b>. Automated setup for n8n, Jellyfin, and Portainer.
       </p>
@@ -152,7 +152,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=LinkedIn-Intelligence-System&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" alt="LinkedIn Intelligence System" />
       </a>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=n8n,gmail&theme=dark" height="25" alt="n8n, Gmail" />
+        <img src="./icons/n8n-gmail.svg" height="25" alt="n8n, Gmail" />
         <br>
         🤖 <b>AI-powered LinkedIn analytics</b>. n8n workflow for monthly profile auditing, strategy generation, and automated reporting.
       </p>
