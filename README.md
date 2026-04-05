@@ -58,13 +58,13 @@
     </td>
     <td align="center" width="50%">
       <b>🤖 AI & Automation</b><br><br>
-      <img src="./icons/python-sklearn-tensorflow-pytorch.svg" height="48" />&nbsp;<img src="./icons/n8n.svg" height="48" alt="n8n" />
+      <img src="./icons/python.svg" height="48" />&nbsp;<img src="./icons/sklearn.svg" height="48" />&nbsp;<img src="./icons/tensorflow.svg" height="48" />&nbsp;<img src="./icons/pytorch.svg" height="48" />&nbsp;<img src="./icons/n8n.svg" height="48" alt="n8n" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <br><b>🌐 Web & DevOps</b><br><br>
-      <img src="./icons/html-css-js-nginx-docker-linux-git-github.svg" height="48" />
+      <img src="./icons/html.svg" height="48" />&nbsp;<img src="./icons/css.svg" height="48" />&nbsp;<img src="./icons/js.svg" height="48" />&nbsp;<img src="./icons/nginx.svg" height="48" />&nbsp;<img src="./icons/docker.svg" height="48" />&nbsp;<img src="./icons/linux.svg" height="48" />&nbsp;<img src="./icons/git.svg" height="48" />&nbsp;<img src="./icons/github.svg" height="48" />
     </td>
     <td align="center" width="50%">
       <br><b>🪄 AI Tools & Assistants</b><br><br>
