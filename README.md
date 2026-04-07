@@ -54,7 +54,7 @@
   <tr>
     <td align="center" width="50%">
       <b>📊 Data & Analytics</b><br><br>
-      <img src="./icons/postgres-mysql-py.svg" height="48" />&nbsp;<img src="./icons/powerbi.svg" height="48" alt="Power BI" />&nbsp;<img src="./icons/tableau.svg" height="48" alt="Tableau" />
+      <img src="./icons/postgres.svg" height="48" />&nbsp;<img src="./icons/mysql.svg" height="48" />&nbsp;<img src="./icons/py.svg" height="48" />&nbsp;<img src="./icons/powerbi.svg" height="48" alt="Power BI" />&nbsp;<img src="./icons/tableau.svg" height="48" alt="Tableau" />
     </td>
     <td align="center" width="50%">
       <b>🤖 AI & Automation</b><br><br>
