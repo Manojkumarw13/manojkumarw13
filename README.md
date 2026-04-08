@@ -30,15 +30,15 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="About Me Developer GIF" width="280" />
 
-- 🎓 Pursuing **B.Tech in AI & Data Science** (Class of 2027), Coimbatore, Tamil Nadu, India
-- 💼 Aspiring **Data Analyst** with a passion for uncovering insights from complex datasets
-- 🧠 Deeply interested in **Artificial Intelligence, Automation & Workflow Orchestration**
-- 🔧 Love building **productivity tools, smart dashboards & self-hosted cloud solutions**
-- 📊 Experienced with end-to-end **ETL pipelines, data warehousing & BI reporting**
-- 🪄 Proficient in **Vibe Coding**, leveraging AI tools to rapidly turn ideas into functional software
-- 🌱 Currently exploring **LLM integrations, agentic AI & advanced SQL optimisation**
-- 📍 Based in **Coimbatore, Tamil Nadu 🇮🇳**
-- ⚡ Fun fact: I run my own personal cloud server on Oracle's Free Tier!
+> ### 💡 A bit about my journey & vision...
+> 
+> - 🎓 &nbsp;**Academia** &nbsp;&middot;&nbsp; Pursuing **B.Tech in AI & Data Science** (Class of '27) @ Coimbatore, 🇮🇳
+> - 🎯 &nbsp;**Vision** &nbsp;&middot;&nbsp; Aspiring **Data Analyst** dedicated to extracting clean signals from chaotic datasets
+> - 🧠 &nbsp;**Fascinations** &nbsp;&middot;&nbsp; **Artificial Intelligence**, **Automation Architectures**, & **Workflow Orchestration**
+> - 🛠️ &nbsp;**The Craft** &nbsp;&middot;&nbsp; Architecting **ETL pipelines**, **Data Warehouses**, **BI Dashboards**, & **Self-Hosted Clouds**
+> - 🪄 &nbsp;**Workflow** &nbsp;&middot;&nbsp; Proficient in **Vibe Coding**, leveraging AI tools to rapidly translate ideas into software
+> - 🌱 &nbsp;**Exploring** &nbsp;&middot;&nbsp; Currently diving into **LLM Integrations**, **Agentic AI**, and advanced **SQL Optimization**
+> - ⚡ &nbsp;**Fun Fact** &nbsp;&middot;&nbsp; I orchestrate and run my own personal cloud server lab out of Oracle's Free Tier!
 
 <br clear="right"/>
 
