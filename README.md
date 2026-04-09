@@ -28,19 +28,27 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="About Me Developer GIF" width="280" />
+<table border="0" width="100%">
+  <tr>
+    <td width="70%">
+      <b>💡 A bit about my journey & vision...</b>
+      <ul>
+        <li>🎓 &nbsp;<b>Academia</b> &nbsp;&middot;&nbsp; Pursuing <b>B.Tech in AI & Data Science</b> (Class of '27) @ Coimbatore, 🇮🇳</li>
+        <li>🎯 &nbsp;<b>Vision</b> &nbsp;&middot;&nbsp; Aspiring <b>Data Analyst</b> dedicated to extracting clean signals from chaotic datasets</li>
+        <li>🧠 &nbsp;<b>Fascinations</b> &nbsp;&middot;&nbsp; <b>Artificial Intelligence</b>, <b>Automation Architectures</b>, & <b>Workflow Orchestration</b></li>
+        <li>🛠️ &nbsp;<b>The Craft</b> &nbsp;&middot;&nbsp; Architecting <b>ETL pipelines</b>, <b>Data Warehouses</b>, <b>BI Dashboards</b>, & <b>Self-Hosted Clouds</b></li>
+        <li>🪄 &nbsp;<b>Workflow</b> &nbsp;&middot;&nbsp; Proficient in <b>Vibe Coding</b>, leveraging AI tools to rapidly translate ideas into software</li>
+        <li>🌱 &nbsp;<b>Exploring</b> &nbsp;&middot;&nbsp; Currently diving into <b>LLM Integrations</b>, <b>Agentic AI</b>, and advanced <b>SQL Optimization</b></li>
+        <li>⚡ &nbsp;<b>Fun Fact</b> &nbsp;&middot;&nbsp; I orchestrate and run my own personal cloud server lab out of Oracle's Free Tier!</li>
+      </ul>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="About Me Developer GIF" width="280" />
+    </td>
+  </tr>
+</table>
 
-> ### 💡 A bit about my journey & vision...
-> 
-> - 🎓 &nbsp;**Academia** &nbsp;&middot;&nbsp; Pursuing **B.Tech in AI & Data Science** (Class of '27) @ Coimbatore, 🇮🇳
-> - 🎯 &nbsp;**Vision** &nbsp;&middot;&nbsp; Aspiring **Data Analyst** dedicated to extracting clean signals from chaotic datasets
-> - 🧠 &nbsp;**Fascinations** &nbsp;&middot;&nbsp; **Artificial Intelligence**, **Automation Architectures**, & **Workflow Orchestration**
-> - 🛠️ &nbsp;**The Craft** &nbsp;&middot;&nbsp; Architecting **ETL pipelines**, **Data Warehouses**, **BI Dashboards**, & **Self-Hosted Clouds**
-> - 🪄 &nbsp;**Workflow** &nbsp;&middot;&nbsp; Proficient in **Vibe Coding**, leveraging AI tools to rapidly translate ideas into software
-> - 🌱 &nbsp;**Exploring** &nbsp;&middot;&nbsp; Currently diving into **LLM Integrations**, **Agentic AI**, and advanced **SQL Optimization**
-> - ⚡ &nbsp;**Fun Fact** &nbsp;&middot;&nbsp; I orchestrate and run my own personal cloud server lab out of Oracle's Free Tier!
-
-<br clear="right"/>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=2&section=footer" width="100%" />
 
@@ -81,7 +89,11 @@
 
 <div align="center">
 
+<details>
+<summary><b>🏆 View GitHub Trophies</b></summary>
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=Manojkumarw13&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</details>
 
 <br>
 
@@ -131,9 +143,9 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=CRM-ERP-SQL-Warehouse&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" alt="CRM-ERP SQL Data Warehouse" />
       </a>
       <p align="left">
-        <img src="./icons/postgres.svg" height="25" alt="PostgreSQL" />
-        <br>
-        🏗️ <b>Bronze–Silver–Gold</b> data warehouse architecting <b>500M+ records/month</b>. Reduced query time via star schema models.
+        🏗️ <b>Architecture:</b> Bronze–Silver–Gold data warehouse (<b>500M+ records/month</b>).<br>
+        ⚡ <b>Impact:</b> Reduced query time via star schema models.<br>
+        <img src="./icons/postgres.svg" height="18" style="vertical-align: bottom;" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -141,9 +153,9 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=AI-Receptionist&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" alt="AI Receptionist" />
       </a>
       <p align="left">
-        <img src="./icons/py.svg" height="25" alt="Python" />
-        <br>
-        🧠 Intelligent <b>AI-powered receptionist</b>. Handles automated interactions and streamlines operations.
+        🧠 <b>Core:</b> Intelligent <b>AI-powered receptionist</b>.<br>
+        ⚡ <b>Impact:</b> Handles automated interactions & streamlines operations.<br>
+        <img src="./icons/py.svg" height="18" style="vertical-align: bottom;" />
       </p>
     </td>
   </tr>
@@ -153,9 +165,9 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=Server-Setup&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" alt="Personal Cloud Server Setup" />
       </a>
       <p align="left">
-        <img src="./icons/nginx-docker.svg" height="25" alt="Nginx, Docker" />
-        <br>
-        ☁️ Comprehensive <b>self-hosting deployment kit</b>. Automated setup for n8n, Jellyfin, and Portainer.
+        ☁️ <b>Core:</b> Comprehensive <b>self-hosting deployment kit</b>.<br>
+        ⚡ <b>Impact:</b> Automated setup for n8n, Jellyfin, and Portainer.<br>
+        <img src="./icons/nginx-docker.svg" height="18" style="vertical-align: bottom;" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -163,9 +175,9 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=LinkedIn-Intelligence-System&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" alt="LinkedIn Intelligence System" />
       </a>
       <p align="left">
-        <img src="./icons/n8n-gmail.svg" height="25" alt="n8n, Gmail" />
-        <br>
-        🤖 <b>AI-powered LinkedIn analytics</b>. n8n workflow for monthly profile auditing, strategy generation, and automated reporting.
+        🤖 <b>Core:</b> <b>AI-powered LinkedIn analytics</b>.<br>
+        ⚡ <b>Impact:</b> n8n workflow for audits, strategy, and reporting.<br>
+        <img src="./icons/n8n-gmail.svg" height="18" style="vertical-align: bottom;" />
       </p>
     </td>
   </tr>
