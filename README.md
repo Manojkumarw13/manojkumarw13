@@ -22,7 +22,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=60&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" width="100%" />
 
 ---
 
@@ -226,7 +226,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=footer" alt="Footer Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer" alt="Footer Wave" width="100%" />
 
 <br>
 
