@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=250&section=header&text=Manoj%20Kumar%20M&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=7aa2f7&desc=Data%20Analyst%20%7C%20AI%20%26%20Automation%20Enthusiast&descSize=22&descAlignY=65&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:292e42,100:1a1b27&height=250&section=header&text=Manoj%20Kumar%20M&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=7aa2f7&desc=Data%20Analyst%20%7C%20AI%20%26%20Automation%20Enthusiast&descSize=22&descAlignY=65&descAlign=50" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7dcfff&center=true&vCenter=true&width=620&lines=Turning+Raw+Data+into+Real+Insights+%F0%9F%93%88;Building+AI+Tools+%26+Automations+%F0%9F%A4%96;SQL+%7C+Power+BI+%7C+Python+%7C+n8n+%F0%9F%9B%A0%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -24,7 +24,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" width="100%" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
 
 ## 🚀 About Me
 
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
 
 ## 🔭 What I'm Working On
 
@@ -65,7 +65,7 @@
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
 
 ## 🛠️ Technical Skills & Arsenal
 
@@ -100,7 +100,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
 
 ## 📈 GitHub Stats
 
@@ -129,9 +129,19 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manojkumarw13&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&custom_title=Contribution%20Graph%20(Months%2FDays)" alt="Contribution Graph" width="95%" />
 
+<br>
+
+<table border="0">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manojkumarw13&theme=tokyonight" alt="Repos per Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manojkumarw13&theme=tokyonight" alt="Most Commit Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manojkumarw13&theme=tokyonight&utcOffset=5.5" alt="Productive Time" /></td>
+  </tr>
+</table>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
 
 <div align="center">
 
@@ -147,7 +157,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
 
 ## 🗂️ Featured Projects
 
@@ -210,11 +220,15 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
 
 ## 🤝 Connect & Collab
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+
+<br>
 
 ### 💡 _"Data holds the story, we just need to listen."_
 
