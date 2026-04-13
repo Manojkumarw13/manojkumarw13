@@ -80,7 +80,7 @@
       <img src="./icons/postgres.svg" height="52" title="PostgreSQL" />&nbsp;&nbsp;<img src="./icons/mysql.svg" height="52" title="MySQL" />&nbsp;&nbsp;<img src="./icons/py.svg" height="52" title="Python (Data)" />&nbsp;&nbsp;<img src="./icons/powerbi.svg" height="52" alt="Power BI" title="Power BI" />&nbsp;&nbsp;<img src="./icons/tableau.svg" height="52" alt="Tableau" title="Tableau" />
     </td>
     <td align="center" width="50%">
-      <b>🤖 AI &amp; Automation</b><br><br>
+      <b>🧠 ML &amp; Deep Learning</b><br><br>
       <img src="./icons/python.svg" height="52" title="Python" />&nbsp;&nbsp;<img src="./icons/sklearn.svg" height="52" title="Scikit-learn" />&nbsp;&nbsp;<img src="./icons/tensorflow.svg" height="52" title="TensorFlow" />&nbsp;&nbsp;<img src="./icons/pytorch.svg" height="52" title="PyTorch" />&nbsp;&nbsp;<img src="./icons/n8n.svg" height="52" alt="n8n" title="n8n" />
     </td>
   </tr>
@@ -90,7 +90,7 @@
       <img src="./icons/html.svg" height="52" title="HTML5" />&nbsp;&nbsp;<img src="./icons/css.svg" height="52" title="CSS3" />&nbsp;&nbsp;<img src="./icons/js.svg" height="52" title="JavaScript" />&nbsp;&nbsp;<img src="./icons/nginx.svg" height="52" title="Nginx" />&nbsp;&nbsp;<img src="./icons/docker.svg" height="52" title="Docker" />&nbsp;&nbsp;<img src="./icons/linux.svg" height="52" title="Linux" />&nbsp;&nbsp;<img src="./icons/git.svg" height="52" title="Git" />&nbsp;&nbsp;<img src="./icons/github.svg" height="52" title="GitHub" />
     </td>
     <td align="center" width="50%">
-      <br><b>🪄 AI Tools &amp; Assistants</b><br><br>
+      <br><b>🪄 AI-Powered Dev Tools</b><br><br>
       <img src="./icons/antigravity-color.svg" height="52" alt="Google Antigravity" title="Google Antigravity" />&nbsp;&nbsp;<img src="./icons/gemini-color.svg" height="52" alt="Google Gemini" title="Google Gemini" />&nbsp;&nbsp;<img src="./icons/cursor.svg" height="52" alt="Cursor" title="Cursor" />&nbsp;&nbsp;<img src="./icons/claude.svg" height="52" alt="Claude" title="Claude" />&nbsp;&nbsp;<img src="./icons/chatgpt.svg" height="52" alt="ChatGPT" title="ChatGPT" />
     </td>
   </tr>
