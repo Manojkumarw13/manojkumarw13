@@ -22,10 +22,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 ## 🚀 About Me
 
 <table border="0" width="100%">
@@ -48,9 +45,13 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🔭 What I'm Working On
+
+<details open>
+<summary><b>Click to expand</b></summary>
+<br>
 
 <table border="0" width="100%">
   <tr>
@@ -65,7 +66,9 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🛠️ Technical Skills & Arsenal
 
@@ -100,7 +103,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📈 GitHub Stats
 
@@ -139,9 +142,15 @@
   </tr>
 </table>
 
+<br>
+
+### 🏙️ 3D Contribution Graph
+
+<img src="https://raw.githubusercontent.com/Manojkumarw13/manojkumarw13/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
 
@@ -157,7 +166,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🗂️ Featured Projects
 
@@ -220,7 +229,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,25:414868,50:7aa2f7,75:414868,100:1a1b27&height=2" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🤝 Connect & Collab
 
