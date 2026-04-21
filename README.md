@@ -57,6 +57,7 @@
   <tr>
     <td>
       <ul>
+        <li>🏨 &nbsp;Developing a <b>Full-Stack AI Receptionist</b> with FastAPI, React, and LangGraph</li>
         <li>🤖 &nbsp;Deep-diving into <b>Large Language Models (LLMs)</b> — architecture, fine-tuning, and prompt engineering</li>
         <li>🧬 &nbsp;Building <b>Agentic AI workflows</b> — multi-agent systems, tool-use, and autonomous reasoning pipelines</li>
         <li>🔗 &nbsp;Exploring advanced <b>AI Agent patterns</b> — ReAct, Chain-of-Thought, RAG, and memory-augmented agents</li>
@@ -191,9 +192,9 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manojkumarw13&repo=AI-Receptionist&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" alt="AI Receptionist" />
       </a>
       <p align="left">
-        🧠 <b>Core:</b> Intelligent <b>AI-powered receptionist</b>.<br>
-        ⚡ <b>Impact:</b> Handles automated interactions &amp; streamlines operations.<br>
-        <img src="./icons/py.svg" height="22" style="vertical-align: middle;" />
+        🧠 <b>Core:</b> Intelligent <b>Full-Stack AI Receptionist</b>.<br>
+        ⚡ <b>Impact:</b> Automated scheduling, check-ins &amp; ML analytics.<br>
+        <img src="./icons/py.svg" height="22" style="vertical-align: middle;" />&nbsp;&nbsp;<img src="./icons/js.svg" height="22" style="vertical-align: middle;" />
       </p>
     </td>
   </tr>
